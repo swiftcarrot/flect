@@ -152,6 +152,7 @@ var singleToPlural = map[string]string{
 	"grouse":      "grouse",
 	"half":        "halves",
 	"halo":        "halos",
+	"hello":       "hellos",
 	"hoof":        "hooves",
 	"human":       "humans",
 	"hypothesis":  "hypotheses",

@@ -196,6 +196,7 @@ var singlePluralAssertions = []tt{
 	{"FANCYPERSON", "FANCYPEOPLE"},
 	{"the_bus", "the_buses"},
 	{"three_sheep", "three_sheep"},
+	{"hello", "hellos"},
 }
 var pluralSingularAssertions = []tt{}
 
